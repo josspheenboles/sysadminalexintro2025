@@ -1,0 +1,30 @@
+1-Convert the following temperatures from Celsius to Fahrenheit:
+
+	GET TEMP FROM USER
+
+	Formula: F = (C * 9/5) + 32
+
+	Print the converted temperatures.
+
+2-Write a script that takes a server hostname (e.g., "web-server-01") and extracts the numeric part (01) from the string. Print the extracted number as an integer.
+
+3-Write a script that checks if a given port number is valid (valid ports are between 0 and 65535). Print True if valid, otherwise False.
+
+4-Simulate a login system:
+
+	Ask the user to input a username and password.
+
+	Check if the username is "admin" and the password is "admin123".
+
+	Print "Access granted" if both are correct, otherwise print "Access denied".
+
+5-Write a script that checks the available disk space:
+	GET DISK FROM USER
+	If the disk space is less than 10%, print "Warning: Low disk space!".
+
+	If the disk space is between 10% and 20%, print "Warning: Disk space is getting low.".
+
+	Otherwise, print "Disk space is sufficient.".
+
+6-Write a script that iterates through a list of server names and prints each server name in uppercase:
+
