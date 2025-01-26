@@ -1,0 +1,33 @@
+1-List of Servers
+	Task: Create a list of server hostnames and perform operations on it.
+		Create a list of server hostnames (e.g., ["server1", "server2", "server3"]).
+		Add a new server to the list.
+
+		Remove a server from the list.
+		Check if a specific server exists in the list.
+
+		Print all servers in the list.
+2-Use a tuple to store immutable server configuration details.
+	Create a tuple containing server configuration details (e.g., ("192.168.1.1", "8080", "root")).
+	Unpack the tuple into separate variables for IP, port, and username.
+	Print the configuration details.
+
+3-Use a dictionary to manage server inventory.
+	Create a dictionary where the keys are server hostnames and the values are their IP addresses.
+	Add a new server to the dictionary.
+	Update the IP address of an existing server.
+	Remove a server from the dictionary.
+	Print all servers and their IP addresses.
+	
+4-Write a function to check the status of a server.
+	Create a function check_server_status that takes a server hostname as input.
+	Use a dictionary to store server statuses (e.g., {"server1": "online", "server2": "offline"}).
+	The function should return the status of the server or "Server not found" if the server doesn't exist.
+	
+5-Analyze server logs stored as a list of tuples.
+	Create a list of tuples where each tuple represents a log entry (e.g., ("server1", "error", "2023-10-01")).
+	Count how many error logs are in the list.
+	Extract all log entries for a specific server.
+	
+6-
+
