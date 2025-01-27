@@ -1,0 +1,8 @@
+Write a Python script to read the contents of a text file and print them to the console.
+Write a Python script to write a string to a text file. If the file doesn't exist, create it.
+Write a Python script to append text to an existing file without overwriting its contents.
+Write a Python script to read a file line by line and print each line with a line number.
+Write a Python script to copy the contents of one file to another.
+Write a Python script to count the number of words in a text file.
+Write a Python script to merge the contents of two text files into a third file.
+Write a Python script to search for a specific word in a file and replace it with another word.
